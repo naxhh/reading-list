@@ -4,10 +4,19 @@
 
 --
 
+## Legend
+:postbox: for queued items
+:unlock: for finished items
+:no_good: for "not really interested in" items
+:eyes: for "i've made a quick pick" items
+
+--
+
+
 **JavaScript**
 
-- 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa)
-- 📰 [Optimization tricks in V8](https://blog.ghaiklor.com/optimizations-tricks-in-v8-d284b6c8b183#.5yey0f4v9)
+- 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa) :postbox:
+- 📰 [Optimization tricks in V8](https://blog.ghaiklor.com/optimizations-tricks-in-v8-d284b6c8b183#.5yey0f4v9) :postbox:
 - 📰 [Profiling Node applications](https://blog.ghaiklor.com/profiling-nodejs-applications-1609b77afe4e#.64ywufy0n)
 - 📰 [Tracing de-optimizations in Node](https://blog.ghaiklor.com/tracing-de-optimizations-in-nodejs-2ba16900fc6f#.xz8dtlmak)
 - 📰 [Learning Javascript design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
@@ -28,9 +37,9 @@
 
 **Codestyle**
 
-- 📚 [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- 📚 [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) :unlock:
 - 📚 [The Art of Readable Code (Theory in Practice)](http://www.amazon.com/Art-Readable-Code-Theory-Practice/dp/0596802293)
-- 🎬 [Your code sucks, let's fix it](http://www.fullybaked.co.uk/articles/your-code-sucks-lets-fix-it)
+- 🎬 [Your code sucks, let's fix it](http://www.fullybaked.co.uk/articles/your-code-sucks-lets-fix-it) :unlock:
 - 📚 [Refactoring to Patterns](https://www.amazon.co.uk/Refactoring-Patterns-Addison-Wesley-Signature-Kerievsky/dp/0321213351/ref=sr_1_1?s=books&ie=UTF8&qid=1463412920&sr=1-1&keywords=refactoring+to+patterns)
 - 📚 [Refactoring: Improving the Design of Existing Code](https://www.amazon.co.uk/Refactoring-Improving-Design-Existing-Technology/dp/0201485672/ref=sr_1_1?s=books&ie=UTF8&qid=1463412948&sr=1-1&keywords=refactoring+improving+the+design+of+existing+code)
 
@@ -50,9 +59,9 @@
 
 **PHP**
 
-- 📰 [PHP: The right way](http://www.phptherightway.com/)
+- 📰 [PHP: The right way](http://www.phptherightway.com/) :unlock:
 - 🎬 [Refactoring to Symfony Components](https://www.youtube.com/watch?v=Aq5Hi6PasFg)
-- 📰 [PHP is the right tool for the job (for all the wrong reasons)](http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html)
+- 📰 [PHP is the right tool for the job (for all the wrong reasons)](http://blog.samuellevy.com/post/41-php-is-the-right-tool-for-the-job-for-all-the-wrong-reasons.html) :unlock:
 - 📰 [Symfony vs. Flat PHP](http://symfony.com/doc/2.0/book/from_flat_php_to_symfony2.html)
 - 📰 [Create your own framework... on top of Symfony components](http://fabien.potencier.org/create-your-own-framework-on-top-of-the-symfony2-components-part-1.html)
 - 📰 [Why `mysql_real_escape_string()` isn't enough](http://www.dreamincode.net/forums/blog/1735/entry-3958-why-mysql-real-escape-string-isnt-enough/)
@@ -89,7 +98,7 @@
 
 **Algorithms**
 
-- 📰 [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau)
+- 📰 [How Reddit's ranking algorithms work](https://medium.com/hacking-and-gonzo/how-reddit-ranking-algorithms-work-ef111e33d0d9#.ru9aoukau) :unlock:
 - 📰 [Long short-term memory recurrent neural network in Python](http://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
 - 🎬 [Can we build AI without losing control over it?](http://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it#t-706132)
 
