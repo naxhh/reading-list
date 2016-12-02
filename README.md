@@ -6,28 +6,32 @@
 
 ## Legend
 :postbox: for queued items
+
 :unlock: for finished items
+
 :no_good: for "not really interested in" items
+
 :eyes: for "i've made a quick pick" items
+
 
 --
 
 
 **JavaScript**
 
-- 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa) :postbox:
-- 📰 [Optimization tricks in V8](https://blog.ghaiklor.com/optimizations-tricks-in-v8-d284b6c8b183#.5yey0f4v9) :postbox:
+- 📰 [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b#.67zv7q7wa) :unlock:
+- 📰 [Optimization tricks in V8](https://blog.ghaiklor.com/optimizations-tricks-in-v8-d284b6c8b183#.5yey0f4v9) :unlock:
 - 📰 [Profiling Node applications](https://blog.ghaiklor.com/profiling-nodejs-applications-1609b77afe4e#.64ywufy0n)
 - 📰 [Tracing de-optimizations in Node](https://blog.ghaiklor.com/tracing-de-optimizations-in-nodejs-2ba16900fc6f#.xz8dtlmak)
 - 📰 [Learning Javascript design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- 📰 [CSS Modules](http://glenmaddern.com/articles/css-modules)
+- 📰 [CSS Modules](http://glenmaddern.com/articles/css-modules) :no_good:
 - 📰 [Performance engineering with React](http://benchling.engineering/performance-engineering-with-react/)
 - 📰 [Internationalization and React](http://blog.getsentry.com/2016/01/07/react-i18n.html)
 - 🎬 [Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY)
 - 🎬 [Hot Reloading with Time Travel](https://www.youtube.com/watch?v=xsSnOQynTHs)
-- 🎬 [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-- 🎬 [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ)
-- 🎬 [Progressive Web Apps across all frameworks](https://www.youtube.com/watch?v=srdKq0DckXQ)
+- 🎬 [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) :postbox:
+- 🎬 [If you wish to learn ES6/2015 from scratch, you must first invent the universe](https://www.youtube.com/watch?v=DN4yLZB1vUQ) :postbox:
+- 🎬 [Progressive Web Apps across all frameworks](https://www.youtube.com/watch?v=srdKq0DckXQ) :postbox: :eyes:
 - 🎬 [Instant Loading: Building offline-first Progressive Web Apps](https://www.youtube.com/watch?v=cmGr0RszHc8)
 - 📰 [How to write your own Virtual DOM](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060#.ozej1gs1x)
 - 📰 [Icon as React Components](https://medium.com/@david.gilbertson/icons-as-react-components-de3e33cb8792#.qawng0ui1)
